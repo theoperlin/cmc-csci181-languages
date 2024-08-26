@@ -32,7 +32,7 @@ Fun facts:
 This class will cover stuff I think is fun about language.
 For example:
 1. various tricks/pitfalls for programming with LLMs,
-1. how formal language theory (e.g. regular vs context free languages) influences are understanding of LLMs, and
+1. how formal language theory (e.g. regular vs context free languages) influences our understanding of LLMs, and
 1. differences between computer languages and natural languages.
 
 Material will be posted in the github folder as we cover it.
